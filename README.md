@@ -2,4 +2,6 @@
 taught by Max Ong Zong Bao
 
 
-this is added to see commit
+this is removed
+
+now i added a new line and delete half of previous line
